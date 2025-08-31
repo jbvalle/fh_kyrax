@@ -1,5 +1,5 @@
 levels:
-- level: 1
+- level: TEST
   theme: Microcontroller Fundamentals
   projects:
   - name: Blinking LED with GPIO control
