@@ -1,0 +1,165 @@
+character:
+  name: Kyrax
+  class: Embedded Artificer / Spiritual Warrior
+  level: 0
+  current_xp: 0
+  xp_to_next_level: 110
+  background: A seeker of knowledge and strength, bridging the realms of technology
+    and spirit.
+stats:
+  str:
+    value: 0
+    real_world_meaning: Physical power, discipline, lifting PRs
+  dex:
+    value: 0
+    real_world_meaning: Hands-on skill (soldering/coding), adaptability
+  const:
+    value: 0
+    real_world_meaning: Resilience (workouts, stress management)
+  int:
+    value: 0
+    real_world_meaning: Problem-solving (embedded projects, learning)
+  wis:
+    value: 0
+    real_world_meaning: Spiritual depth (prayer, reflection, judgment)
+  char:
+    value: 0
+    real_world_meaning: Social confidence, communication
+habit_data:
+- id: 0
+  name: (Morning) Adhkaar
+  value: 70
+  compounded_value: 70
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-07-21'
+  stat_reward: WIS
+- id: 1
+  name: (Evening) Adhkaar
+  value: 70
+  compounded_value: 70
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-06-21'
+  stat_reward: WIS
+- id: 2
+  name: (Morning) Ishraq
+  value: 50
+  compounded_value: 50
+  streak: 0
+  streak_cycle: 4
+  last_executed: '2025-07-10'
+  stat_reward: WIS
+- id: 3
+  name: (Morning) Take Creatine
+  value: 40
+  compounded_value: 40
+  streak: 0
+  streak_cycle: 7
+  last_executed: '2025-07-21'
+  stat_reward: STR
+- id: 4
+  name: (Morning) Drink Anti Histamine & Vitamins
+  value: 40
+  compounded_value: 40
+  streak: 0
+  streak_cycle: 7
+  last_executed: '2025-07-21'
+  stat_reward: CONST
+- id: 5
+  name: Workout
+  value: 120
+  compounded_value: 123
+  streak: 1
+  streak_cycle: 3
+  last_executed: '2025-06-25'
+  stat_reward: STR
+- id: 6
+  name: (Evening) Read Surah al-Mulk
+  value: 75
+  compounded_value: 75
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-06-21'
+  stat_reward: WIS
+- id: 7
+  name: +45' General Study Session
+  value: 120
+  compounded_value: 120
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-06-13'
+  stat_reward: INT
+- id: 8
+  name: Read +20 Pages of any Engineering Book
+  value: 100
+  compounded_value: 100
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-06-13'
+  stat_reward: DEX
+- id: 9
+  name: +30' nature walk
+  value: 20
+  compounded_value: 20
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-07-10'
+  stat_reward: CONST
+- id: 10
+  name: Hit Protein Goal
+  value: 50
+  compounded_value: 50
+  streak: 0
+  streak_cycle: 7
+  last_executed: '2025-06-13'
+  stat_reward: STR
+- id: 11
+  name: Read 1-2 Pages of a Book aloud
+  value: 20
+  compounded_value: 20
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-06-13'
+  stat_reward: CHAR
+- id: 12
+  name: Give someone a small compliment
+  value: 20
+  compounded_value: 20
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-06-21'
+  stat_reward: CHAR
+- id: 13
+  name: Daily Embedded Practice (30+ mins) (General Programming + Debug)
+  value: 100
+  compounded_value: 102
+  streak: 1
+  streak_cycle: 4
+  last_executed: '2025-06-18'
+  stat_reward: DEX
+- id: 14
+  name: Pray Isha in Congregation
+  value: 100
+  compounded_value: 100
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-06-21'
+  stat_reward: WIS
+- id: 15
+  name: 'Do general cleaning '
+  value: 75
+  compounded_value: 75
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-06-19'
+  stat_reward: CONST
+- id: 16
+  name: Greet 3 new people
+  value: 30
+  compounded_value: 30
+  streak: 0
+  streak_cycle: 3
+  last_executed: '2025-06-21'
+  stat_reward: CHAR
+challenges: []

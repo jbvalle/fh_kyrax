@@ -1,0 +1,34 @@
+levels:
+- level: 1
+  theme: Custom Level 1
+  projects:
+  - name: Order Anti Histamine
+    state: unlocked
+    requirements:
+    - ''
+    gh_issue: '578'
+  - name: 'Watch video of Udemy: Swift Course'
+    state: unlocked
+    requirements:
+    - ''
+    gh_issue: '579'
+  - name: Implement Filter for Active Challenges
+    state: unlocked
+    requirements:
+    - ''
+    gh_issue: '580'
+  - name: Selbstablesung Thermomatik
+    state: locked
+    requirements:
+    - ''
+    gh_issue: '582'
+  - name: FH Brueckenkurse checken
+    state: locked
+    requirements:
+    - ''
+    gh_issue: '583'
+  - name: Finish G1 & G2 Questions
+    state: locked
+    requirements:
+    - ''
+    gh_issue: '584'
