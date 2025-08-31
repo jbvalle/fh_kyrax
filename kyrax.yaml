@@ -1,9 +1,9 @@
 character:
   name: Kyrax
   class: Embedded Artificer / Spiritual Warrior
-  level: 0
-  current_xp: 0
-  xp_to_next_level: 110
+  level: 8
+  current_xp: 8360
+  xp_to_next_level: 8910
   background: A seeker of knowledge and strength, bridging the realms of technology
     and spirit.
 stats:
@@ -162,4 +162,32 @@ habit_data:
   streak_cycle: 3
   last_executed: '2025-06-21'
   stat_reward: CHAR
-challenges: []
+challenges:
+- id: 1
+  title: 'AE28_20250901: Grundlagen der Elektrotechnik 1 ILV - Class 1 preparation'
+  body: ''
+  labels:
+  - Grundlagen_der_ET
+  - Class 1
+  - Preperation
+  start_date: '2025-08-31'
+  planned_date: '2025-09-02'
+  monster_encounter: 0
+  difficulty: hard
+  k_factor: 3
+  quest_day_limit: 2
+  stat_rewards: []
+- id: 2
+  title: 'AE28_20250902: Grundlagen der Elektrotechnik 1 ILV - Class 2 preparation'
+  body: ''
+  labels:
+  - Grundlagen_der_ET
+  - Preperation
+  - Class 2
+  start_date: '2025-08-31'
+  planned_date: '2025-09-02'
+  monster_encounter: 0
+  difficulty: hard
+  k_factor: 3
+  quest_day_limit: 2
+  stat_rewards: []
