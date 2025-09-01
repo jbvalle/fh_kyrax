@@ -147,15 +147,15 @@ class StudyScheduler:
             self.study_plan = data['study_plan']
         return self.study_plan
     
-    def mark_completed(self, date_str, subject):
+    def mark_completed(self, study_date_str, subject):
         """Mark a study session as completed"""
-        if date_str in self.study_plan:
-            for session in self.study_plan[date_str]:
+        if study_date_str in self.study_plan:
+            for session in self.study_plan[study_date_str]:
                 if session['subject'] == subject:
                     session['completed'] = True
-                    print(f"Marked {subject} on {date_str} as completed")
+                    print(f"Marked {subject} on {study_date_str} as completed")
                     return True
-        print(f"Session not found: {subject} on {date_str}")
+        print(f"Session not found: {subject} on {study_date_str}")
         return False
     
     def get_weekly_view(self, week_start=None):

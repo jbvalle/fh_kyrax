@@ -1,5 +1,5 @@
 metadata:
-  generated_on: 2025-08-31 19:28
+  generated_on: 2025-09-01 21:21
   subjects:
   - Grundlagen der Elektrotechnik 1 ILV
   - Digitaltechnik ILV
@@ -7,27 +7,23 @@ metadata:
   - Lernstrategien und Arbeitsmethoden 1 ILV
   - Mathematik 1 ILV - Alle
   - Basics of Business English UE - Gruppe 2
-  - "Mathematik 1 ILV - \xDCbung"
-  - "PR\xDCFUNG! Grundlagen der Elektrotechnik 1 ILV"
+  - "Mathematik 1 ILV - \uFFFDbung"
+  - "PR\uFFFDFUNG! Grundlagen der Elektrotechnik 1 ILV"
   - Elektronik-Laboratorium 1 UE - Gruppe 2
   - C-Programmierung ILV - Gruppe 2
-  - Basics of Business English UE - Gruppe 2
-  - Elektronik-Laboratorium 1 UE - Gruppe 2
-  - Grundlagen der Elektrotechnik 1 ILV
-  - "PR\xDCFUNG! Lernstrategien und Arbeitsmethoden 1 ILV"
-  - C-Programmierung ILV - Gruppe 2
-  - "PR\xDCFUNG! Basics of Business English UE - Gruppe 2"
-  - "PR\xDCFUNG! C-Programmierung ILV - Alle"
-  - "PR\xDCFUNG! Digitaltechnik ILV"
-  - "PR\xDCFUNG! Mathematik 1 ILV - \xDCbung"
-  - "PR\xDCFUNG! Mathematik 1 ILV - Alle"
-  - "PR\xDCFUNG! Elektronik-Laboratorium 1 UE - Gruppe 2"
+  - "PR\uFFFDFUNG! Lernstrategien und Arbeitsmethoden 1 ILV"
+  - "PR\uFFFDFUNG! Basics of Business English UE - Gruppe 2"
+  - "PR\uFFFDFUNG! C-Programmierung ILV - Alle"
+  - "PR\uFFFDFUNG! Digitaltechnik ILV"
+  - "PR\uFFFDFUNG! Mathematik 1 ILV - \uFFFDbung"
+  - "PR\uFFFDFUNG! Mathematik 1 ILV - Alle"
+  - "PR\uFFFDFUNG! Elektronik-Laboratorium 1 UE - Gruppe 2"
   total_classes: 103
 study_plan:
   '2025-08-31':
   - class_date: '2025-09-01'
     class_time: '17:30'
-    completed: false
+    completed: true
     location: C.E.21
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 1 preparation
