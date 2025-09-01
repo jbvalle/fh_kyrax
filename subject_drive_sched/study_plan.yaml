@@ -1,5 +1,5 @@
 metadata:
-  generated_on: 2025-09-01 23:39
+  generated_on: 2025-09-01 23:40
   subjects:
   - Grundlagen der Elektrotechnik 1 ILV
   - C-Programmierung ILV - Alle
@@ -23,13 +23,13 @@ study_plan:
   '2025-09-01':
   - class_date: '2025-09-01'
     class_time: '17:30'
-    completed: false
+    completed: true
     location: C.E.21
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 1 preparation
   - class_date: '2025-09-02'
     class_time: '17:30'
-    completed: false
+    completed: true
     location: C.E.21
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 2 preparation
