@@ -95,6 +95,17 @@ class StudyScheduler:
         and remaining sessions are scheduled consecutively starting today (so you can push ahead).
         Otherwise, sessions are scheduled consecutively starting at the earliest desired study date.
         """
+        # Preserve completed sessions from existing plan
+        completed_sessions = {}
+        if skip_completed and self.study_plan:
+            for date, sessions in self.study_plan.items():
+                for session in sessions:
+                    if session.get('completed'):
+                        subject = session['subject']
+                        class_date = session['class_date']
+                        if (subject, class_date) not in completed_sessions:
+                            completed_sessions[(subject, class_date)] = session
+
         # Build all candidate sessions with desired study date metadata
         all_sessions = []
         today_dt = datetime.now().replace(hour=6, minute=0, second=0, microsecond=0)
@@ -107,6 +118,13 @@ class StudyScheduler:
                 # If desired study date is in the past, prefer today at 06:00
                 if desired_study_dt < datetime.now():
                     desired_study_dt = today_dt
+
+                # Check if this session was already completed
+                session_key = (subject, class_date.strftime('%Y-%m-%d'))
+                if session_key in completed_sessions:
+                    # Keep the completed session as is
+                    all_sessions.append(completed_sessions[session_key])
+                    continue
 
                 session = {
                     'subject': subject,
@@ -121,15 +139,6 @@ class StudyScheduler:
 
         # Sort by class_date to maintain priority
         all_sessions.sort(key=lambda x: x['class_date'])
-
-        # Optionally skip already-completed sessions from existing plan
-        if skip_completed and self.study_plan:
-            completed_set = {
-                (s['subject'], s['class_date'])
-                for sessions in self.study_plan.values()
-                for s in sessions if s.get('completed')
-            }
-            all_sessions = [s for s in all_sessions if (s['subject'], s['class_date']) not in completed_set]
 
         if not all_sessions:
             # nothing to schedule
@@ -157,6 +166,11 @@ class StudyScheduler:
         while session_index < total_sessions:
             date_str = current_date.strftime('%Y-%m-%d')
 
+            # Skip already completed sessions when scheduling
+            if all_sessions[session_index].get('completed'):
+                session_index += 1
+                continue
+
             # At least one session per day (you may extend to multiple per day by changing chunk size)
             sessions_for_day = [all_sessions[session_index]]
             session_index += 1
@@ -164,8 +178,16 @@ class StudyScheduler:
             balanced_plan[date_str] = sessions_for_day
             current_date += timedelta(days=1)
 
-        # If you want to ensure the schedule spans until the latest class date too, you could extend the plan.
-        # For now, this places remaining sessions as early as possible (i.e., further ahead of class).
+        # Add completed sessions back to the plan
+        for session in completed_sessions.values():
+            # Find the original date for completed sessions
+            for date, sessions in self.study_plan.items():
+                if session in sessions:
+                    if date not in balanced_plan:
+                        balanced_plan[date] = []
+                    balanced_plan[date].append(session)
+                    break
+
         self.study_plan = balanced_plan
         return balanced_plan
 
@@ -629,4 +651,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
