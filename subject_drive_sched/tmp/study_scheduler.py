@@ -147,15 +147,15 @@ class StudyScheduler:
             self.study_plan = data['study_plan']
         return self.study_plan
     
-    def mark_completed(self, study_date_str, subject):
-        """Mark a study session as completed"""
-        if study_date_str in self.study_plan:
-            for session in self.study_plan[study_date_str]:
-                if session['subject'] == subject:
+    def mark_completed_by_class_date(self, class_date_str, subject):
+        """Mark a study session as completed by class date"""
+        for study_date, sessions in self.study_plan.items():
+            for session in sessions:
+                if session['class_date'] == class_date_str and session['subject'] == subject:
                     session['completed'] = True
-                    print(f"Marked {subject} on {study_date_str} as completed")
+                    print(f"Marked {subject} for class on {class_date_str} as completed")
                     return True
-        print(f"Session not found: {subject} on {study_date_str}")
+        print(f"Session not found: {subject} for class on {class_date_str}")
         return False
     
     def get_weekly_view(self, week_start=None):
@@ -256,8 +256,8 @@ def main():
     parser.add_argument('--output', default='study_plan.yaml', help='Output YAML file for study plan')
     parser.add_argument('--days-ahead', type=int, default=2, help='How many days to study ahead of class')
     parser.add_argument('--view-week', action='store_true', help='View weekly study plan')
-    parser.add_argument('--mark-completed', nargs=2, metavar=('DATE', 'SUBJECT'), 
-                       help='Mark a study session as completed (date format: YYYY-MM-DD)')
+    parser.add_argument('--mark-completed', nargs=2, metavar=('CLASS_DATE', 'SUBJECT'), 
+                       help='Mark a study session as completed by class date (date format: YYYY-MM-DD)')
     
     args = parser.parse_args()
     
@@ -273,8 +273,8 @@ def main():
     
     # Handle commands
     if args.mark_completed:
-        date_str, subject = args.mark_completed
-        scheduler.mark_completed(date_str, subject)
+        class_date_str, subject = args.mark_completed
+        scheduler.mark_completed_by_class_date(class_date_str, subject)
         scheduler.save_plan(args.output)
     
     if args.view_week:

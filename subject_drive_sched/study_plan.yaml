@@ -1,26 +1,26 @@
 metadata:
-  generated_on: 2025-09-01 21:21
+  generated_on: 2025-09-01 23:29
   subjects:
   - Grundlagen der Elektrotechnik 1 ILV
-  - Digitaltechnik ILV
   - C-Programmierung ILV - Alle
+  - Digitaltechnik ILV
   - Lernstrategien und Arbeitsmethoden 1 ILV
   - Mathematik 1 ILV - Alle
   - Basics of Business English UE - Gruppe 2
-  - "Mathematik 1 ILV - \uFFFDbung"
-  - "PR\uFFFDFUNG! Grundlagen der Elektrotechnik 1 ILV"
+  - "Mathematik 1 ILV - \xDCbung"
+  - "PR\xDCFUNG! Grundlagen der Elektrotechnik 1 ILV"
   - Elektronik-Laboratorium 1 UE - Gruppe 2
   - C-Programmierung ILV - Gruppe 2
-  - "PR\uFFFDFUNG! Lernstrategien und Arbeitsmethoden 1 ILV"
-  - "PR\uFFFDFUNG! Basics of Business English UE - Gruppe 2"
-  - "PR\uFFFDFUNG! C-Programmierung ILV - Alle"
-  - "PR\uFFFDFUNG! Digitaltechnik ILV"
-  - "PR\uFFFDFUNG! Mathematik 1 ILV - \uFFFDbung"
-  - "PR\uFFFDFUNG! Mathematik 1 ILV - Alle"
-  - "PR\uFFFDFUNG! Elektronik-Laboratorium 1 UE - Gruppe 2"
+  - "PR\xDCFUNG! Lernstrategien und Arbeitsmethoden 1 ILV"
+  - "PR\xDCFUNG! Basics of Business English UE - Gruppe 2"
+  - "PR\xDCFUNG! C-Programmierung ILV - Alle"
+  - "PR\xDCFUNG! Digitaltechnik ILV"
+  - "PR\xDCFUNG! Mathematik 1 ILV - \xDCbung"
+  - "PR\xDCFUNG! Mathematik 1 ILV - Alle"
+  - "PR\xDCFUNG! Elektronik-Laboratorium 1 UE - Gruppe 2"
   total_classes: 103
 study_plan:
-  '2025-08-31':
+  '2025-09-01':
   - class_date: '2025-09-01'
     class_time: '17:30'
     completed: true
@@ -29,17 +29,10 @@ study_plan:
     topic: Class 1 preparation
   - class_date: '2025-09-02'
     class_time: '17:30'
-    completed: false
+    completed: true
     location: C.E.21
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 2 preparation
-  '2025-09-01':
-  - class_date: '2025-09-03'
-    class_time: '17:30'
-    completed: false
-    location: E.4.06
-    subject: Digitaltechnik ILV
-    topic: Class 1 preparation
   '2025-09-03':
   - class_date: '2025-09-05'
     class_time: '19:15'
@@ -56,6 +49,13 @@ study_plan:
     topic: Class 3 preparation
   '2025-09-07':
   - class_date: '2025-09-09'
+    class_time: '17:30'
+    completed: false
+    location: E.4.06
+    subject: Digitaltechnik ILV
+    topic: Class 1 preparation
+  '2025-09-08':
+  - class_date: '2025-09-10'
     class_time: '17:30'
     completed: false
     location: E.4.06
@@ -307,7 +307,7 @@ study_plan:
     class_time: 09:00
     completed: false
     location: ''
-    subject: Basics of Business English UE - Gruppe 2
+    subject: FERNLEHRE! Basics of Business English UE - Gruppe 2
     topic: Class 1 preparation
   '2025-10-19':
   - class_date: '2025-10-21'
@@ -335,13 +335,13 @@ study_plan:
     class_time: 09:00
     completed: false
     location: ''
-    subject: Elektronik-Laboratorium 1 UE - Gruppe 2
+    subject: FERNLEHRE! Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 1 preparation
   - class_date: '2025-10-25'
     class_time: '13:00'
     completed: false
     location: ''
-    subject: Grundlagen der Elektrotechnik 1 ILV
+    subject: FERNLEHRE! Grundlagen der Elektrotechnik 1 ILV
     topic: Class 1 preparation
   '2025-10-25':
   - class_date: '2025-10-27'
@@ -409,7 +409,7 @@ study_plan:
     class_time: 09:00
     completed: false
     location: ''
-    subject: C-Programmierung ILV - Gruppe 2
+    subject: FERNLEHRE! C-Programmierung ILV - Gruppe 2
     topic: Class 1 preparation
   '2025-11-09':
   - class_date: '2025-11-11'
@@ -450,7 +450,7 @@ study_plan:
     class_time: 09:00
     completed: false
     location: ''
-    subject: Elektronik-Laboratorium 1 UE - Gruppe 2
+    subject: FERNLEHRE! Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 2 preparation
   '2025-11-15':
   - class_date: '2025-11-17'
@@ -485,7 +485,7 @@ study_plan:
     class_time: 09:00
     completed: false
     location: ''
-    subject: Elektronik-Laboratorium 1 UE - Gruppe 2
+    subject: FERNLEHRE! Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 3 preparation
   '2025-11-22':
   - class_date: '2025-11-24'
@@ -526,7 +526,7 @@ study_plan:
     class_time: 09:00
     completed: false
     location: ''
-    subject: C-Programmierung ILV - Gruppe 2
+    subject: FERNLEHRE! C-Programmierung ILV - Gruppe 2
     topic: Class 2 preparation
   '2025-11-29':
   - class_date: '2025-12-01'
@@ -574,7 +574,7 @@ study_plan:
     class_time: 09:00
     completed: false
     location: ''
-    subject: Elektronik-Laboratorium 1 UE - Gruppe 2
+    subject: FERNLEHRE! Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 4 preparation
   '2025-12-07':
   - class_date: '2025-12-09'
@@ -635,13 +635,13 @@ study_plan:
     class_time: 09:00
     completed: false
     location: ''
-    subject: Elektronik-Laboratorium 1 UE - Gruppe 2
+    subject: FERNLEHRE! Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 5 preparation
   - class_date: '2025-12-20'
     class_time: '12:00'
     completed: false
     location: ''
-    subject: C-Programmierung ILV - Gruppe 2
+    subject: FERNLEHRE! C-Programmierung ILV - Gruppe 2
     topic: Class 3 preparation
   '2026-01-06':
   - class_date: '2026-01-08'
@@ -672,9 +672,9 @@ study_plan:
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 20 preparation
   - class_date: '2026-01-13'
-    class_time: '17:30'
+    class_time: '19:15'
     completed: false
-    location: C.E.20
+    location: C.E.21
     subject: Mathematik 1 ILV - Alle
     topic: Class 13 preparation
   '2026-01-14':
