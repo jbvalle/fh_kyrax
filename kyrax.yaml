@@ -162,4 +162,74 @@ habit_data:
   streak_cycle: 3
   last_executed: '2025-06-21'
   stat_reward: CHAR
-challenges: []
+challenges:
+- id: 3
+  title: 'C-Programmierung ILV - Alle - Class 1 preparation :: Class: 2025-09-05 at
+    19:15'
+  body: ''
+  labels: []
+  start_date: '2025-09-02'
+  planned_date: '2025-09-03'
+  monster_encounter: 0
+  difficulty: medium
+  k_factor: 5
+  quest_day_limit: 2
+  stat_rewards: []
+- id: 4
+  title: 'Grundlagen der Elektrotechnik 1 ILV - Class 3 preparation     Class: 2025-09-08
+    at 17:30'
+  body: ''
+  labels: []
+  start_date: '2025-09-02'
+  planned_date: '2025-09-03'
+  monster_encounter: 0
+  difficulty: medium
+  k_factor: 5
+  quest_day_limit: 3
+  stat_rewards: []
+- id: 5
+  title: 'Digitaltechnik ILV - Class 1 preparation     Class: 2025-09-09 at 17:30'
+  body: ''
+  labels: []
+  start_date: '2025-09-02'
+  planned_date: '2025-09-04'
+  monster_encounter: 0
+  difficulty: medium
+  k_factor: 5
+  quest_day_limit: 3
+  stat_rewards: []
+- id: 6
+  title: 'Digitaltechnik ILV - Class 2 preparation     Class: 2025-09-10 at 17:30'
+  body: ''
+  labels: []
+  start_date: '2025-09-02'
+  planned_date: '2025-09-05'
+  monster_encounter: 0
+  difficulty: medium
+  k_factor: 5
+  quest_day_limit: 3
+  stat_rewards: []
+- id: 7
+  title: 'C-Programmierung ILV - Alle - Class 2 preparation     Class: 2025-09-11
+    at 17:30'
+  body: ''
+  labels: []
+  start_date: '2025-09-02'
+  planned_date: '2025-09-06'
+  monster_encounter: 0
+  difficulty: medium
+  k_factor: 5
+  quest_day_limit: 3
+  stat_rewards: []
+- id: 8
+  title: 'C-Programmierung ILV - Alle - Class 3 preparation     Class: 2025-09-12
+    at 19:15'
+  body: ''
+  labels: []
+  start_date: '2025-09-02'
+  planned_date: '2025-09-07'
+  monster_encounter: 0
+  difficulty: medium
+  k_factor: 5
+  quest_day_limit: 3
+  stat_rewards: []
