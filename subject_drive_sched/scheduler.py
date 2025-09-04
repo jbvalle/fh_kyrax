@@ -613,8 +613,8 @@ class StudySchedulerUI:
 
 def main():
     parser = argparse.ArgumentParser(description='Study Scheduler for Electrical Engineering')
-    parser.add_argument('--csv', default='/home/kyrax/personal/coding/000_fh_kyrax/subject_drive_sched/classes.csv', help='Input CSV file with class schedule')
-    parser.add_argument('--output', default='/home/kyrax/personal/coding/000_fh_kyrax/subject_drive_sched/study_plan.yaml', help='Output YAML file for study plan')
+    parser.add_argument('--csv', default='/Users/kyrax/Coding/002_fh_kyrax/subject_drive_sched/classes.csv', help='Input CSV file with class schedule')
+    parser.add_argument('--output', default='/Users/kyrax/Coding/002_fh_kyrax/subject_drive_sched/study_plan.yaml', help='Output YAML file for study plan')
     parser.add_argument('--days-ahead', type=int, default=2, help='How many days to study ahead of class')
     parser.add_argument('--ui', action='store_true', help='Launch interactive user interface')
     parser.add_argument('--reschedule', action='store_true',
