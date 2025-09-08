@@ -1,5 +1,5 @@
 all: run
 
 run:
-	python scheduler.py --ui
+	python3 scheduler.py --ui
 
