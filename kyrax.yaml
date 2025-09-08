@@ -170,7 +170,7 @@ challenges:
   labels: []
   start_date: '2025-09-02'
   planned_date: '2025-09-03'
-  monster_encounter: 0
+  monster_encounter: 1
   difficulty: medium
   k_factor: 5
   quest_day_limit: 2
@@ -182,7 +182,7 @@ challenges:
   labels: []
   start_date: '2025-09-02'
   planned_date: '2025-09-03'
-  monster_encounter: 0
+  monster_encounter: 1
   difficulty: medium
   k_factor: 5
   quest_day_limit: 3
@@ -193,7 +193,7 @@ challenges:
   labels: []
   start_date: '2025-09-02'
   planned_date: '2025-09-04'
-  monster_encounter: 0
+  monster_encounter: 1
   difficulty: medium
   k_factor: 5
   quest_day_limit: 3
@@ -204,7 +204,7 @@ challenges:
   labels: []
   start_date: '2025-09-02'
   planned_date: '2025-09-05'
-  monster_encounter: 0
+  monster_encounter: 1
   difficulty: medium
   k_factor: 5
   quest_day_limit: 3
@@ -216,7 +216,7 @@ challenges:
   labels: []
   start_date: '2025-09-02'
   planned_date: '2025-09-06'
-  monster_encounter: 0
+  monster_encounter: 1
   difficulty: medium
   k_factor: 5
   quest_day_limit: 3
@@ -228,7 +228,7 @@ challenges:
   labels: []
   start_date: '2025-09-02'
   planned_date: '2025-09-07'
-  monster_encounter: 0
+  monster_encounter: 1
   difficulty: medium
   k_factor: 5
   quest_day_limit: 3
