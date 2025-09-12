@@ -1,5 +1,5 @@
 metadata:
-  generated_on: 2025-09-12 21:49
+  generated_on: 2025-09-12 21:53
   subjects:
   - Grundlagen der Elektrotechnik 1 ILV
   - C-Programmierung ILV - Alle
@@ -76,6 +76,13 @@ study_plan:
     subject: Digitaltechnik ILV
     topic: Class 2 preparation
   '2025-09-12':
+  - class_date: '2025-09-15'
+    class_time: '17:30'
+    completed: false
+    desired_study_dt: 2025-09-13 00:00:00
+    location: A.-1.01
+    subject: Grundlagen der Elektrotechnik 1 ILV
+    topic: Class 4 preparation
   - class_date: '2025-09-12'
     class_time: '19:15'
     completed: true
@@ -84,6 +91,13 @@ study_plan:
     subject: C-Programmierung ILV - Alle
     topic: Class 3 preparation
   '2025-09-13':
+  - class_date: '2025-09-15'
+    class_time: '19:15'
+    completed: false
+    desired_study_dt: 2025-09-13 00:00:00
+    location: A.-1.01
+    subject: Mathematik 1 ILV - Alle
+    topic: Class 1 preparation
   - class_date: '2025-09-12'
     class_time: '17:30'
     completed: true
@@ -92,22 +106,6 @@ study_plan:
     subject: Lernstrategien und Arbeitsmethoden 1 ILV
     topic: Class 1 preparation
   '2025-09-14':
-  - class_date: '2025-09-15'
-    class_time: '17:30'
-    completed: false
-    desired_study_dt: 2025-09-13 00:00:00
-    location: A.-1.01
-    subject: Grundlagen der Elektrotechnik 1 ILV
-    topic: Class 4 preparation
-  '2025-09-15':
-  - class_date: '2025-09-15'
-    class_time: '19:15'
-    completed: false
-    desired_study_dt: 2025-09-13 00:00:00
-    location: A.-1.01
-    subject: Mathematik 1 ILV - Alle
-    topic: Class 1 preparation
-  '2025-09-16':
   - class_date: '2025-09-16'
     class_time: '17:30'
     completed: false
@@ -115,7 +113,7 @@ study_plan:
     location: E.4.06
     subject: Digitaltechnik ILV
     topic: Class 3 preparation
-  '2025-09-17':
+  '2025-09-15':
   - class_date: '2025-09-17'
     class_time: '17:30'
     completed: false
@@ -123,7 +121,7 @@ study_plan:
     location: A.-1.01
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 5 preparation
-  '2025-09-18':
+  '2025-09-16':
   - class_date: '2025-09-17'
     class_time: '19:15'
     completed: false
@@ -131,7 +129,7 @@ study_plan:
     location: A.-1.01
     subject: Mathematik 1 ILV - Alle
     topic: Class 2 preparation
-  '2025-09-19':
+  '2025-09-17':
   - class_date: '2025-09-18'
     class_time: '17:30'
     completed: false
@@ -139,7 +137,7 @@ study_plan:
     location: E.4.06
     subject: C-Programmierung ILV - Alle
     topic: Class 4 preparation
-  '2025-09-20':
+  '2025-09-18':
   - class_date: '2025-09-19'
     class_time: '19:15'
     completed: false
@@ -147,7 +145,7 @@ study_plan:
     location: C.E.20
     subject: Lernstrategien und Arbeitsmethoden 1 ILV
     topic: Class 2 preparation
-  '2025-09-21':
+  '2025-09-19':
   - class_date: '2025-09-19'
     class_time: '17:30'
     completed: false
@@ -155,7 +153,7 @@ study_plan:
     location: C.E.01
     subject: Basics of Business English UE - Gruppe 2
     topic: Class 1 preparation
-  '2025-09-22':
+  '2025-09-20':
   - class_date: '2025-09-22'
     class_time: '17:30'
     completed: false
@@ -163,7 +161,7 @@ study_plan:
     location: E.4.06
     subject: Digitaltechnik ILV
     topic: Class 4 preparation
-  '2025-09-23':
+  '2025-09-21':
   - class_date: '2025-09-23'
     class_time: '19:15'
     completed: false
@@ -171,7 +169,7 @@ study_plan:
     location: A.-1.01
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 6 preparation
-  '2025-09-24':
+  '2025-09-22':
   - class_date: '2025-09-23'
     class_time: '17:30'
     completed: false
@@ -179,7 +177,7 @@ study_plan:
     location: A.-1.01
     subject: Mathematik 1 ILV - Alle
     topic: Class 3 preparation
-  '2025-09-25':
+  '2025-09-23':
   - class_date: '2025-09-24'
     class_time: '17:30'
     completed: false
@@ -187,7 +185,7 @@ study_plan:
     location: C.E.20
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 7 preparation
-  '2025-09-26':
+  '2025-09-24':
   - class_date: '2025-09-24'
     class_time: '19:15'
     completed: false
@@ -195,7 +193,7 @@ study_plan:
     location: C.E.20
     subject: Mathematik 1 ILV - Übung
     topic: Class 1 preparation
-  '2025-09-27':
+  '2025-09-25':
   - class_date: '2025-09-26'
     class_time: '19:15'
     completed: false
@@ -203,7 +201,7 @@ study_plan:
     location: E.4.06
     subject: Digitaltechnik ILV
     topic: Class 5 preparation
-  '2025-09-28':
+  '2025-09-26':
   - class_date: '2025-09-26'
     class_time: '17:30'
     completed: false
@@ -211,7 +209,7 @@ study_plan:
     location: E.4.06
     subject: Lernstrategien und Arbeitsmethoden 1 ILV
     topic: Class 3 preparation
-  '2025-09-29':
+  '2025-09-27':
   - class_date: '2025-09-29'
     class_time: '17:30'
     completed: false
@@ -219,7 +217,7 @@ study_plan:
     location: A.-1.01
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 8 preparation
-  '2025-09-30':
+  '2025-09-28':
   - class_date: '2025-09-29'
     class_time: '19:15'
     completed: false
@@ -227,7 +225,7 @@ study_plan:
     location: A.-1.01
     subject: Mathematik 1 ILV - Alle
     topic: Class 4 preparation
-  '2025-10-01':
+  '2025-09-29':
   - class_date: '2025-09-30'
     class_time: '17:30'
     completed: false
@@ -235,7 +233,7 @@ study_plan:
     location: A.-1.01
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 9 preparation
-  '2025-10-02':
+  '2025-09-30':
   - class_date: '2025-10-01'
     class_time: '17:30'
     completed: false
@@ -243,7 +241,7 @@ study_plan:
     location: E.4.06
     subject: Digitaltechnik ILV
     topic: Class 6 preparation
-  '2025-10-03':
+  '2025-10-01':
   - class_date: '2025-10-02'
     class_time: '17:30'
     completed: false
@@ -251,7 +249,7 @@ study_plan:
     location: C.Z.01
     subject: Basics of Business English UE - Gruppe 2
     topic: Class 2 preparation
-  '2025-10-04':
+  '2025-10-02':
   - class_date: '2025-10-03'
     class_time: '17:30'
     completed: false
@@ -259,7 +257,7 @@ study_plan:
     location: A.-1.01
     subject: Lernstrategien und Arbeitsmethoden 1 ILV
     topic: Class 4 preparation
-  '2025-10-05':
+  '2025-10-03':
   - class_date: '2025-10-03'
     class_time: '19:15'
     completed: false
@@ -267,7 +265,7 @@ study_plan:
     location: A.-1.01
     subject: Lernstrategien und Arbeitsmethoden 1 ILV
     topic: Class 5 preparation
-  '2025-10-06':
+  '2025-10-04':
   - class_date: '2025-10-06'
     class_time: '19:15'
     completed: false
@@ -275,7 +273,7 @@ study_plan:
     location: C.E.21
     subject: Mathematik 1 ILV - Alle
     topic: Class 5 preparation
-  '2025-10-07':
+  '2025-10-05':
   - class_date: '2025-10-06'
     class_time: '17:30'
     completed: false
@@ -283,7 +281,7 @@ study_plan:
     location: C.E.21
     subject: PRÜFUNG! Grundlagen der Elektrotechnik 1 ILV
     topic: Class 1 preparation
-  '2025-10-08':
+  '2025-10-06':
   - class_date: '2025-10-07'
     class_time: '17:30'
     completed: false
@@ -291,7 +289,7 @@ study_plan:
     location: H.-1.02
     subject: Mathematik 1 ILV - Alle
     topic: Class 6 preparation
-  '2025-10-09':
+  '2025-10-07':
   - class_date: '2025-10-08'
     class_time: '17:30'
     completed: false
@@ -299,7 +297,7 @@ study_plan:
     location: C.E.20
     subject: Digitaltechnik ILV
     topic: Class 7 preparation
-  '2025-10-10':
+  '2025-10-08':
   - class_date: '2025-10-09'
     class_time: '19:15'
     completed: false
@@ -307,7 +305,7 @@ study_plan:
     location: E.1.05
     subject: Basics of Business English UE - Gruppe 2
     topic: Class 3 preparation
-  '2025-10-11':
+  '2025-10-09':
   - class_date: '2025-10-09'
     class_time: '17:30'
     completed: false
@@ -315,7 +313,7 @@ study_plan:
     location: E.1.05
     subject: Mathematik 1 ILV - Übung
     topic: Class 2 preparation
-  '2025-10-12':
+  '2025-10-10':
   - class_date: '2025-10-10'
     class_time: '17:30'
     completed: false
@@ -323,7 +321,7 @@ study_plan:
     location: A.-1.01
     subject: Lernstrategien und Arbeitsmethoden 1 ILV
     topic: Class 6 preparation
-  '2025-10-13':
+  '2025-10-11':
   - class_date: '2025-10-13'
     class_time: '17:30'
     completed: false
@@ -331,7 +329,7 @@ study_plan:
     location: B.1.11
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 1 preparation
-  '2025-10-14':
+  '2025-10-12':
   - class_date: '2025-10-14'
     class_time: '17:30'
     completed: false
@@ -339,7 +337,7 @@ study_plan:
     location: A.-1.01
     subject: Digitaltechnik ILV
     topic: Class 8 preparation
-  '2025-10-15':
+  '2025-10-13':
   - class_date: '2025-10-15'
     class_time: '17:30'
     completed: false
@@ -347,7 +345,7 @@ study_plan:
     location: C.E.02
     subject: C-Programmierung ILV - Gruppe 2
     topic: Class 1 preparation
-  '2025-10-16':
+  '2025-10-14':
   - class_date: '2025-10-16'
     class_time: '17:30'
     completed: false
@@ -355,7 +353,7 @@ study_plan:
     location: E.4.06
     subject: C-Programmierung ILV - Alle
     topic: Class 5 preparation
-  '2025-10-17':
+  '2025-10-15':
   - class_date: '2025-10-18'
     class_time: 09:00
     completed: false
@@ -363,7 +361,7 @@ study_plan:
     location: ''
     subject: Basics of Business English UE - Gruppe 2
     topic: Class 4 preparation
-  '2025-10-18':
+  '2025-10-16':
   - class_date: '2025-10-21'
     class_time: '17:30'
     completed: false
@@ -371,7 +369,7 @@ study_plan:
     location: H.-1.02
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 10 preparation
-  '2025-10-19':
+  '2025-10-17':
   - class_date: '2025-10-22'
     class_time: '17:30'
     completed: false
@@ -379,7 +377,7 @@ study_plan:
     location: B.1.11
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 2 preparation
-  '2025-10-20':
+  '2025-10-18':
   - class_date: '2025-10-23'
     class_time: '17:30'
     completed: false
@@ -387,7 +385,7 @@ study_plan:
     location: C.E.20
     subject: Mathematik 1 ILV - Übung
     topic: Class 3 preparation
-  '2025-10-21':
+  '2025-10-19':
   - class_date: '2025-10-25'
     class_time: '13:00'
     completed: false
@@ -395,7 +393,7 @@ study_plan:
     location: ''
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 11 preparation
-  '2025-10-22':
+  '2025-10-20':
   - class_date: '2025-10-25'
     class_time: 09:00
     completed: false
@@ -403,7 +401,7 @@ study_plan:
     location: ''
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 3 preparation
-  '2025-10-23':
+  '2025-10-21':
   - class_date: '2025-10-27'
     class_time: '17:30'
     completed: false
@@ -411,7 +409,7 @@ study_plan:
     location: C.E.02
     subject: C-Programmierung ILV - Gruppe 2
     topic: Class 2 preparation
-  '2025-10-24':
+  '2025-10-22':
   - class_date: '2025-10-28'
     class_time: '17:30'
     completed: false
@@ -419,7 +417,7 @@ study_plan:
     location: E.4.06
     subject: Digitaltechnik ILV
     topic: Class 9 preparation
-  '2025-10-25':
+  '2025-10-23':
   - class_date: '2025-10-30'
     class_time: '17:30'
     completed: false
@@ -427,7 +425,7 @@ study_plan:
     location: E.4.06
     subject: C-Programmierung ILV - Alle
     topic: Class 6 preparation
-  '2025-10-26':
+  '2025-10-24':
   - class_date: '2025-10-31'
     class_time: '19:15'
     completed: false
@@ -435,7 +433,7 @@ study_plan:
     location: A.-1.01
     subject: Lernstrategien und Arbeitsmethoden 1 ILV
     topic: Class 7 preparation
-  '2025-10-27':
+  '2025-10-25':
   - class_date: '2025-10-31'
     class_time: '17:30'
     completed: false
@@ -443,7 +441,7 @@ study_plan:
     location: A.-1.01
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 4 preparation
-  '2025-10-28':
+  '2025-10-26':
   - class_date: '2025-11-03'
     class_time: '17:30'
     completed: false
@@ -451,7 +449,7 @@ study_plan:
     location: B.1.11
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 5 preparation
-  '2025-10-29':
+  '2025-10-27':
   - class_date: '2025-11-04'
     class_time: '17:30'
     completed: false
@@ -459,7 +457,7 @@ study_plan:
     location: A.-1.01
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 12 preparation
-  '2025-10-30':
+  '2025-10-28':
   - class_date: '2025-11-07'
     class_time: '19:15'
     completed: false
@@ -467,7 +465,7 @@ study_plan:
     location: C.E.21
     subject: Mathematik 1 ILV - Alle
     topic: Class 7 preparation
-  '2025-10-31':
+  '2025-10-29':
   - class_date: '2025-11-07'
     class_time: '17:30'
     completed: false
@@ -475,7 +473,7 @@ study_plan:
     location: C.E.21
     subject: PRÜFUNG! Lernstrategien und Arbeitsmethoden 1 ILV
     topic: Class 1 preparation
-  '2025-11-01':
+  '2025-10-30':
   - class_date: '2025-11-08'
     class_time: 09:00
     completed: false
@@ -483,7 +481,7 @@ study_plan:
     location: ''
     subject: C-Programmierung ILV - Gruppe 2
     topic: Class 3 preparation
-  '2025-11-02':
+  '2025-10-31':
   - class_date: '2025-11-11'
     class_time: '17:30'
     completed: false
@@ -491,7 +489,7 @@ study_plan:
     location: A.-1.01
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 13 preparation
-  '2025-11-03':
+  '2025-11-01':
   - class_date: '2025-11-12'
     class_time: '17:30'
     completed: false
@@ -499,7 +497,7 @@ study_plan:
     location: A.-1.04
     subject: Basics of Business English UE - Gruppe 2
     topic: Class 5 preparation
-  '2025-11-04':
+  '2025-11-02':
   - class_date: '2025-11-13'
     class_time: '17:30'
     completed: false
@@ -507,7 +505,7 @@ study_plan:
     location: A.-1.01
     subject: Mathematik 1 ILV - Alle
     topic: Class 8 preparation
-  '2025-11-05':
+  '2025-11-03':
   - class_date: '2025-11-14'
     class_time: '19:15'
     completed: false
@@ -515,7 +513,7 @@ study_plan:
     location: A.-1.01
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 14 preparation
-  '2025-11-06':
+  '2025-11-04':
   - class_date: '2025-11-14'
     class_time: '17:30'
     completed: false
@@ -523,7 +521,7 @@ study_plan:
     location: A.-1.01
     subject: Mathematik 1 ILV - Übung
     topic: Class 4 preparation
-  '2025-11-07':
+  '2025-11-05':
   - class_date: '2025-11-15'
     class_time: 09:00
     completed: false
@@ -531,7 +529,7 @@ study_plan:
     location: ''
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 6 preparation
-  '2025-11-08':
+  '2025-11-06':
   - class_date: '2025-11-17'
     class_time: '17:30'
     completed: false
@@ -539,7 +537,7 @@ study_plan:
     location: E.1.05
     subject: Mathematik 1 ILV - Alle
     topic: Class 9 preparation
-  '2025-11-09':
+  '2025-11-07':
   - class_date: '2025-11-18'
     class_time: '17:30'
     completed: false
@@ -547,7 +545,7 @@ study_plan:
     location: E.4.06
     subject: Digitaltechnik ILV
     topic: Class 10 preparation
-  '2025-11-10':
+  '2025-11-08':
   - class_date: '2025-11-19'
     class_time: '17:30'
     completed: false
@@ -555,7 +553,7 @@ study_plan:
     location: B.1.11
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 7 preparation
-  '2025-11-11':
+  '2025-11-09':
   - class_date: '2025-11-21'
     class_time: '17:30'
     completed: false
@@ -563,7 +561,7 @@ study_plan:
     location: C.E.21
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 15 preparation
-  '2025-11-12':
+  '2025-11-10':
   - class_date: '2025-11-22'
     class_time: 09:00
     completed: false
@@ -571,7 +569,7 @@ study_plan:
     location: ''
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 8 preparation
-  '2025-11-13':
+  '2025-11-11':
   - class_date: '2025-11-24'
     class_time: '17:30'
     completed: false
@@ -579,7 +577,7 @@ study_plan:
     location: C.E.02
     subject: C-Programmierung ILV - Gruppe 2
     topic: Class 4 preparation
-  '2025-11-14':
+  '2025-11-12':
   - class_date: '2025-11-25'
     class_time: '17:30'
     completed: false
@@ -587,7 +585,7 @@ study_plan:
     location: A.-1.01
     subject: Mathematik 1 ILV - Alle
     topic: Class 10 preparation
-  '2025-11-15':
+  '2025-11-13':
   - class_date: '2025-11-25'
     class_time: '19:15'
     completed: false
@@ -595,7 +593,7 @@ study_plan:
     location: A.-1.01
     subject: Mathematik 1 ILV - Übung
     topic: Class 5 preparation
-  '2025-11-16':
+  '2025-11-14':
   - class_date: '2025-11-27'
     class_time: '17:30'
     completed: false
@@ -603,7 +601,7 @@ study_plan:
     location: E.1.05
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 16 preparation
-  '2025-11-17':
+  '2025-11-15':
   - class_date: '2025-11-28'
     class_time: '17:30'
     completed: false
@@ -611,7 +609,7 @@ study_plan:
     location: C.E.02
     subject: PRÜFUNG! Basics of Business English UE - Gruppe 2
     topic: Class 1 preparation
-  '2025-11-18':
+  '2025-11-16':
   - class_date: '2025-11-29'
     class_time: 09:00
     completed: false
@@ -619,7 +617,7 @@ study_plan:
     location: ''
     subject: C-Programmierung ILV - Gruppe 2
     topic: Class 5 preparation
-  '2025-11-19':
+  '2025-11-17':
   - class_date: '2025-12-01'
     class_time: '19:15'
     completed: false
@@ -627,7 +625,7 @@ study_plan:
     location: A.-1.01
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 17 preparation
-  '2025-11-20':
+  '2025-11-18':
   - class_date: '2025-12-01'
     class_time: '17:30'
     completed: false
@@ -635,7 +633,7 @@ study_plan:
     location: A.-1.01
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 9 preparation
-  '2025-11-21':
+  '2025-11-19':
   - class_date: '2025-12-02'
     class_time: '17:30'
     completed: false
@@ -643,7 +641,7 @@ study_plan:
     location: C.E.20
     subject: C-Programmierung ILV - Alle
     topic: Class 7 preparation
-  '2025-11-22':
+  '2025-11-20':
   - class_date: '2025-12-03'
     class_time: '17:30'
     completed: false
@@ -651,7 +649,7 @@ study_plan:
     location: C.E.20
     subject: Digitaltechnik ILV
     topic: Class 11 preparation
-  '2025-11-23':
+  '2025-11-21':
   - class_date: '2025-12-04'
     class_time: '17:30'
     completed: false
@@ -659,7 +657,7 @@ study_plan:
     location: A.-1.01
     subject: Mathematik 1 ILV - Übung
     topic: Class 6 preparation
-  '2025-11-24':
+  '2025-11-22':
   - class_date: '2025-12-05'
     class_time: '17:30'
     completed: false
@@ -667,7 +665,7 @@ study_plan:
     location: C.E.21
     subject: Mathematik 1 ILV - Alle
     topic: Class 11 preparation
-  '2025-11-25':
+  '2025-11-23':
   - class_date: '2025-12-06'
     class_time: 09:00
     completed: false
@@ -675,7 +673,7 @@ study_plan:
     location: ''
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 10 preparation
-  '2025-11-26':
+  '2025-11-24':
   - class_date: '2025-12-09'
     class_time: '19:15'
     completed: false
@@ -683,7 +681,7 @@ study_plan:
     location: P.1.21
     subject: Mathematik 1 ILV - Alle
     topic: Class 12 preparation
-  '2025-11-27':
+  '2025-11-25':
   - class_date: '2025-12-09'
     class_time: '17:30'
     completed: false
@@ -691,7 +689,7 @@ study_plan:
     location: P.1.21
     subject: Mathematik 1 ILV - Übung
     topic: Class 7 preparation
-  '2025-11-28':
+  '2025-11-26':
   - class_date: '2025-12-10'
     class_time: '17:30'
     completed: false
@@ -699,7 +697,7 @@ study_plan:
     location: C.E.02
     subject: C-Programmierung ILV - Gruppe 2
     topic: Class 6 preparation
-  '2025-11-29':
+  '2025-11-27':
   - class_date: '2025-12-12'
     class_time: '17:30'
     completed: false
@@ -707,7 +705,7 @@ study_plan:
     location: E.4.06
     subject: PRÜFUNG! C-Programmierung ILV - Alle
     topic: Class 1 preparation
-  '2025-11-30':
+  '2025-11-28':
   - class_date: '2025-12-16'
     class_time: '17:30'
     completed: false
@@ -715,7 +713,7 @@ study_plan:
     location: A.-1.01
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 18 preparation
-  '2025-12-01':
+  '2025-11-29':
   - class_date: '2025-12-17'
     class_time: '17:30'
     completed: false
@@ -723,7 +721,7 @@ study_plan:
     location: B.1.11
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 11 preparation
-  '2025-12-02':
+  '2025-11-30':
   - class_date: '2025-12-19'
     class_time: '19:15'
     completed: false
@@ -731,7 +729,7 @@ study_plan:
     location: E.4.06
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 19 preparation
-  '2025-12-03':
+  '2025-12-01':
   - class_date: '2025-12-19'
     class_time: '17:30'
     completed: false
@@ -739,7 +737,7 @@ study_plan:
     location: E.4.06
     subject: PRÜFUNG! Digitaltechnik ILV
     topic: Class 1 preparation
-  '2025-12-04':
+  '2025-12-02':
   - class_date: '2025-12-20'
     class_time: 09:00
     completed: false
@@ -747,7 +745,7 @@ study_plan:
     location: ''
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 12 preparation
-  '2025-12-05':
+  '2025-12-03':
   - class_date: '2025-12-20'
     class_time: '12:00'
     completed: false
@@ -755,7 +753,7 @@ study_plan:
     location: ''
     subject: C-Programmierung ILV - Gruppe 2
     topic: Class 7 preparation
-  '2025-12-06':
+  '2025-12-04':
   - class_date: '2026-01-08'
     class_time: '17:30'
     completed: false
@@ -763,7 +761,7 @@ study_plan:
     location: A.-1.01
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 20 preparation
-  '2025-12-07':
+  '2025-12-05':
   - class_date: '2026-01-09'
     class_time: '17:30'
     completed: false
@@ -771,7 +769,7 @@ study_plan:
     location: A.-1.01
     subject: PRÜFUNG! Mathematik 1 ILV - Übung
     topic: Class 1 preparation
-  '2025-12-08':
+  '2025-12-06':
   - class_date: '2026-01-12'
     class_time: '17:30'
     completed: false
@@ -779,7 +777,7 @@ study_plan:
     location: B.1.11
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 13 preparation
-  '2025-12-09':
+  '2025-12-07':
   - class_date: '2026-01-13'
     class_time: '17:30'
     completed: false
@@ -787,7 +785,7 @@ study_plan:
     location: C.E.21
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 21 preparation
-  '2025-12-10':
+  '2025-12-08':
   - class_date: '2026-01-13'
     class_time: '19:15'
     completed: false
@@ -795,7 +793,7 @@ study_plan:
     location: C.E.21
     subject: Mathematik 1 ILV - Alle
     topic: Class 13 preparation
-  '2025-12-11':
+  '2025-12-09':
   - class_date: '2026-01-16'
     class_time: '19:15'
     completed: false
@@ -803,7 +801,7 @@ study_plan:
     location: C.E.21
     subject: Grundlagen der Elektrotechnik 1 ILV
     topic: Class 22 preparation
-  '2025-12-12':
+  '2025-12-10':
   - class_date: '2026-01-16'
     class_time: '17:30'
     completed: false
@@ -811,7 +809,7 @@ study_plan:
     location: C.E.21
     subject: PRÜFUNG! Mathematik 1 ILV - Alle
     topic: Class 1 preparation
-  '2025-12-13':
+  '2025-12-11':
   - class_date: '2026-01-19'
     class_time: '17:30'
     completed: false
@@ -819,7 +817,7 @@ study_plan:
     location: C.E.02
     subject: C-Programmierung ILV - Gruppe 2
     topic: Class 8 preparation
-  '2025-12-14':
+  '2025-12-12':
   - class_date: '2026-01-20'
     class_time: '17:30'
     completed: false
@@ -827,7 +825,7 @@ study_plan:
     location: A.-1.01
     subject: PRÜFUNG! Grundlagen der Elektrotechnik 1 ILV
     topic: Class 2 preparation
-  '2025-12-15':
+  '2025-12-13':
   - class_date: '2026-01-21'
     class_time: '17:30'
     completed: false
@@ -835,7 +833,7 @@ study_plan:
     location: B.1.11
     subject: Elektronik-Laboratorium 1 UE - Gruppe 2
     topic: Class 14 preparation
-  '2025-12-16':
+  '2025-12-14':
   - class_date: '2026-01-24'
     class_time: 09:00
     completed: false
