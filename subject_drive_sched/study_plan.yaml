@@ -1,5 +1,5 @@
 metadata:
-  generated_on: 2025-09-10 21:37
+  generated_on: 2025-09-12 16:01
   subjects:
   - Grundlagen der Elektrotechnik 1 ILV
   - C-Programmierung ILV - Alle
@@ -61,26 +61,25 @@ study_plan:
     subject: Digitaltechnik ILV
     topic: Class 1 preparation
   '2025-09-10':
+  - class_date: '2025-09-11'
+    class_time: '17:30'
+    completed: true
+    desired_study_dt: 2025-09-10 06:00:00
+    location: C.E.20
+    subject: C-Programmierung ILV - Alle
+    topic: Class 2 preparation
   - class_date: '2025-09-10'
     class_time: '17:30'
     completed: true
-    desired_study_dt: &id002 2025-09-10 06:00:00
+    desired_study_dt: 2025-09-10 06:00:00
     location: E.4.06
     subject: Digitaltechnik ILV
-    topic: Class 2 preparation
-  '2025-09-11':
-  - class_date: '2025-09-11'
-    class_time: '17:30'
-    completed: false
-    desired_study_dt: *id002
-    location: C.E.20
-    subject: C-Programmierung ILV - Alle
     topic: Class 2 preparation
   '2025-09-12':
   - class_date: '2025-09-12'
     class_time: '19:15'
     completed: false
-    desired_study_dt: *id002
+    desired_study_dt: &id002 2025-09-12 06:00:00
     location: E.4.06
     subject: C-Programmierung ILV - Alle
     topic: Class 3 preparation
