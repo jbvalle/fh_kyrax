@@ -1,5 +1,5 @@
 metadata:
-  generated_on: 2025-09-12 16:01
+  generated_on: 2025-09-12 21:49
   subjects:
   - Grundlagen der Elektrotechnik 1 ILV
   - C-Programmierung ILV - Alle
@@ -78,7 +78,7 @@ study_plan:
   '2025-09-12':
   - class_date: '2025-09-12'
     class_time: '19:15'
-    completed: false
+    completed: true
     desired_study_dt: &id002 2025-09-12 06:00:00
     location: E.4.06
     subject: C-Programmierung ILV - Alle
@@ -86,7 +86,7 @@ study_plan:
   '2025-09-13':
   - class_date: '2025-09-12'
     class_time: '17:30'
-    completed: false
+    completed: true
     desired_study_dt: *id002
     location: E.4.06
     subject: Lernstrategien und Arbeitsmethoden 1 ILV
